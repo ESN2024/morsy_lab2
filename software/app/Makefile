@@ -142,7 +142,7 @@ ACDS_VERSION := 18.1
 ELF := morsy_lab2.elf
 
 # Paths to C, C++, and assembly source files.
-C_SRCS += counter_3Digit.c
+C_SRCS += timer.c
 CXX_SRCS :=
 ASM_SRCS :=
 
